@@ -40,7 +40,7 @@ There are 3 main topics covered in the project:
 
    - Employ the pre-trained network as a feature extractor, accessing the activation of an intermediate layer (for instance the last convolutional layer) and train a multiclass linear SVM.
 
-## Description of the approach and implementation choices and results
+## Description of the approach, implementation choices and results
 
 For each one of the previous points, there is a notebook.
 
